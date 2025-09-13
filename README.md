@@ -31,7 +31,7 @@
 ## 🗣 Let’s Connect
 
 - Portfolio / Projects: [github.com/GabinKalbusch](https://github.com/GabinKalbusch)
-- LinkedIn: [in/ton-profil](www.linkedin.com/in/gabin-kalbusch)
+- LinkedIn: **www.linkedin.com/in/gabin-kalbusch**
 - Email: **gabin.kalbusch@audencia.com**
 
 ---
