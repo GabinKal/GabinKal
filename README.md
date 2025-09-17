@@ -15,13 +15,6 @@
 ## 🛠 Tech Stack
 
 - **Languages**: Python, SQL, R, HTML, CSS
-- **Machine Learning**: scikit-learn, pandas, numpy, Streamlit
-- **Tools**: Git, Docker
-- **Finance**: Corporate Tax, Private Equity Valuation, Legal Frameworks
-
-🛠 Tech Stack
-
-- **Languages**: Python, SQL, R, HTML, CSS
 - **Data Collection**: BeautifulSoup, Requests, Kaggle API
 - **Data Cleaning & Analysis**: pandas, numpy, matplotlib, seaborn, plotly
 - **Machine Learning & NLP**: scikit-learn, transformers (Hugging Face), LangChain, OpenAI Embeddings
