@@ -19,12 +19,6 @@
 
 - **Finance**: Corporate Finance, Corporate Tax, Private Equity Valuation, Legal Frameworks
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabinKal&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GabinKal&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabinKal&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 ## 📂 Featured Projects
 
 - **CancerDetectApp** – Streamlit app for cancer prediction using ML.
